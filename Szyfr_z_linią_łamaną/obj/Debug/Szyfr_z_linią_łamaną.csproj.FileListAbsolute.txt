@@ -1,0 +1,37 @@
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\bin\Debug\Szyfr_z_linią_łamaną.exe.config
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\bin\Debug\Szyfr_z_linią_łamaną.exe
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\bin\Debug\Szyfr_z_linią_łamaną.pdb
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.csprojResolveAssemblyReference.cache
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną_MarkupCompile.cache
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną_MarkupCompile.lref
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.g.resources
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.Properties.Resources.resources
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.csproj.GenerateResource.Cache
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.exe
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.pdb
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Ustawienia.g.cs
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Ustawienia.baml
+C:\Users\PM\Desktop\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\bin\Debug\Szyfr_z_linią_łamaną.exe.config
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\bin\Debug\Szyfr_z_linią_łamaną.exe
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\bin\Debug\Szyfr_z_linią_łamaną.pdb
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.csprojResolveAssemblyReference.cache
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Ustawienia.g.cs
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną_MarkupCompile.cache
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną_MarkupCompile.lref
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Ustawienia.baml
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.g.resources
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.Properties.Resources.resources
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.csproj.GenerateResource.Cache
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.csproj.CoreCompileInputs.cache
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.exe
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_2\Szyfr_z_linią_łamaną\Szyfr_z_linią_łamaną\obj\Debug\Szyfr_z_linią_łamaną.pdb
